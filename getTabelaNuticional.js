@@ -26,3 +26,4 @@ linhas.forEach(function (linha, index) {
 
     tabelaDeDadosnuticionais.setDadoNutricional(nomeDado, comoVendido, porPorcao, comparadoA);
 });
+
